@@ -10,7 +10,7 @@
   },
   "background": {
       "scripts": ["yeah.js"],
-      "persistent": true
+      "persistent": false
   },
   "permissions": [
       "downloads"
